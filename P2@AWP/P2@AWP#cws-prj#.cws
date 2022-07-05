@@ -5,8 +5,8 @@
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
 	RuntimeDocumentID="ba26af92-2f29-a1ec-bf08-74ec7aae8114">
 	<DocumentID>ba26af92-2f29-a1ec-bf08-74ec7a930114</DocumentID>
-	<Name>P2</Name>
-	<Description>P2</Description>
+	<Name>P2@AWP</Name>
+	<Description>P2@AWP</Description>
 	<CreatedBy>sysadmin</CreatedBy>
 	<CreationDate>2022-07-05T05:18:08.075</CreationDate>
 	<Notes/>
@@ -44,7 +44,7 @@
 	<SourceFolder>
 		<uri
 			id="ba26af92-2f29-a1ec-bf08-74ec7a5c0114"
-			path="P2"
+			path="P2@AWP"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
@@ -74,7 +74,7 @@
 					<Texts>
 						<uri
 							id="ba26af92-2f29-a1ec-bf08-74ec79238114"
-							path="P2/en-US_ba26af92-2f29-a1ec-bf08-74ec79238114"
+							path="P2@AWP/en-US_ba26af92-2f29-a1ec-bf08-74ec79238114"
 							type="com.cordys.cws.associations.MergeableAssociation"
 						/>
 					</Texts>
@@ -93,7 +93,7 @@
 			<Texts>
 				<uri
 					id="ba26af92-2f29-a1ec-bf08-74ec79968114"
-					path="P2/TranslationInformation_ba26af92-2f29-a1ec-bf08-74ec79968114"
+					path="P2@AWP/TranslationInformation_ba26af92-2f29-a1ec-bf08-74ec79968114"
 					type="com.cordys.cws.associations.MergeableAssociation"
 				/>
 			</Texts>
